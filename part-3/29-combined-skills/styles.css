@@ -20,4 +20,15 @@
     justify-content: space-between;
     align-items: center;
   }
+  .views {
+    display: flex;
+    align-items: center;
+  }
+
+  .view-list__item {
+    margin-left: 25px;
+  }
+  .views__all {
+    margin-left: auto;
+  }
 }
