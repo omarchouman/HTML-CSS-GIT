@@ -36,3 +36,17 @@
 .contact-form__field {
   margin: 15px 0;
 }
+
+/* Here is the article styling */
+.main-article p {
+  max-width: 50em;
+  line-height: 1.7em;
+}
+
+.site-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+/* Here is the article styling */
